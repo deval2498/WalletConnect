@@ -2,6 +2,10 @@
   "name": "walletconnect-example-dapp",
   "version": "1.7.8",
   "private": true,
+  "engines": {
+    "node": "14.16.1",
+    "npm": "8.1.2"
+  },
   "keywords": [
     "walletconnect",
     "ethereum",
